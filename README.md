@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0x7030676e31
 - 👀 I’m interested in programming (no way), selfbotting, quantum field theory and langdev
 - 🌱 I’m currently learning rust
-- 💞️ I don't want to collaborate on anything
+- 💞️ Not collabing on anything rn
 - 📫 How to reach me: discord -  H^7jc&DxY6J$8F2en%VMtARSB9EIz#9801
 
 <!---
