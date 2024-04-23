@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0x7030676e31
-- 👀 I’m interested in programming (no way), selfbotting, quantum field theory and langdev
+- 👀 I’m interested in selfbotting, quantum field theory, langdev && maldev
 - 🌱 I’m currently learning malware development
 - 💞️ Not collabing on anything rn
 - 📫 How to reach me: discord - @0x7030676e31
